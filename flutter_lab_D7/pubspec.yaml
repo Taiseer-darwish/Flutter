@@ -1,0 +1,50 @@
+name: flutter_lab1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.3
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.17.0
+  awesome_dialog: ^3.1.0
+  google_sign_in: ^6.2.1
+  flutter_facebook_auth: ^6.0.4
+  firebase_storage: ^11.6.0
+  image_picker: ^1.1.1
+  flutter_svg: ^2.0.10+1
+  intl: ^0.19.0
+  uuid: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/Vector.jpg
+    - images/Vector (1).jpg
+    - images/download.png
+    - images/traveel.jpg
+    - images/images1.jpg
+    - images/images2.jpg
+    - images/images3.jpg
+    - images/images4.jpg
+    - images/images5.jpg
+    - images/images6.jpg
+    - images/images7.jpg
+    - images/images8.jpg
+    - images/images9.jpg
+    - images/images10.jpg
+    - images/splash_background.png
